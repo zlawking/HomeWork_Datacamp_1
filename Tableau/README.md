@@ -1,4 +1,5 @@
 # Kanasorn Poomisirisawat 
 datacamp_1
-day_3
- 
+
+https://public.tableau.com/profile/kanasorn.poomisirisawat#!/
+ (Lab_1,2)
