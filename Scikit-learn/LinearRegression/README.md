@@ -1,4 +1,4 @@
 # Kanasorn Poomisirisawat 
 datacamp_1
-day_5
- 
+Scikit-learn
+LinearRegression
